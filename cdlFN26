@@ -3,7 +3,7 @@ type: 1
 
 [Identifiers]
 name: Whole Cell Kinetic Model (Enzymatic reactions with enzyme transcriptions and translations) of Clostridioides difficile R20291
-author: Felice Ng Jia Ying, Maurice Ling
+author: Felice Ng Jia Ying
 
 [Objects]
 C00001: Water
